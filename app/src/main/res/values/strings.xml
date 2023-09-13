@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Eval1XR2</string>
+    <string-array name="soy">
+        <item> Genero </item>
+        <item> Hombre </item>
+        <item> Mujer </item>
+    </string-array>
+</resources>
